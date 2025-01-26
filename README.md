@@ -1,0 +1,1 @@
+This was the very first project I developed for college when I was just starting to learn how to program. It was a simple site, but it taught me a lot about programming logic, problem-solving, and organizing code. This project marked the beginning of my journey in technology and sparked my passion for learning and creating solutions.
